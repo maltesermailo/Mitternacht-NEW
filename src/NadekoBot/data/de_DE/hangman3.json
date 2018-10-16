@@ -1,23 +1,23 @@
 {
   "Animals": [
     {
-      "Word": "meerkat",
+      "Word": "Erdmännchen",
       "ImageUrl": "https://www.randomlists.com/img/animals/meerkat.jpg"
     },
     {
       "ImageUrl": "https://www.randomlists.com/img/animals/aardvark.jpg",
-      "Word": "aardvark"
+      "Word": "Erdferkel"
     },
     {
       "Word": "addax",
       "ImageUrl": "https://www.randomlists.com/img/animals/addax.jpg"
     },
     {
-      "Word": "alligator",
+      "Word": "Alligator",
       "ImageUrl": "https://www.randomlists.com/img/animals/alligator.jpg"
     },
     {
-      "Word": "alpaca",
+      "Word": "Alpaka",
       "ImageUrl": "https://www.randomlists.com/img/animals/alpaca.jpg"
     },
     {
@@ -25,7 +25,7 @@
       "ImageUrl": "https://www.randomlists.com/img/animals/anteater.jpg"
     },
     {
-      "Word": "antelope",
+      "Word": "Antilope",
       "ImageUrl": "https://www.randomlists.com/img/animals/antelope.jpg"
     },
     {
@@ -49,7 +49,7 @@
       "ImageUrl": "https://www.randomlists.com/img/animals/baboon.jpg"
     },
     {
-      "Word": "badger",
+      "Word": "Dachs",
       "ImageUrl": "https://www.randomlists.com/img/animals/badger.jpg"
     },
     {
@@ -57,15 +57,15 @@
       "ImageUrl": "https://www.randomlists.com/img/animals/basilisk.jpg"
     },
     {
-      "Word": "bat",
+      "Word": "Fledermaus",
       "ImageUrl": "https://www.randomlists.com/img/animals/bat.jpg"
     },
     {
-      "Word": "bear",
+      "Word": "Bär",
       "ImageUrl": "https://www.randomlists.com/img/animals/bear.jpg"
     },
     {
-      "Word": "beaver",
+      "Word": "Biber",
       "ImageUrl": "https://www.randomlists.com/img/animals/beaver.jpg"
     },
     {
@@ -73,11 +73,11 @@
       "ImageUrl": "https://www.randomlists.com/img/animals/bighorn.jpg"
     },
     {
-      "Word": "bison",
+      "Word": "Bison",
       "ImageUrl": "https://www.randomlists.com/img/animals/bison.jpg"
     },
     {
-      "Word": "boar",
+      "Word": "Wildschwein",
       "ImageUrl": "https://www.randomlists.com/img/animals/boar.jpg"
     },
     {
@@ -85,15 +85,15 @@
       "ImageUrl": "https://www.randomlists.com/img/animals/budgerigar.jpg"
     },
     {
-      "Word": "buffalo",
+      "Word": "Büffel",
       "ImageUrl": "https://www.randomlists.com/img/animals/buffalo.jpg"
     },
     {
-      "Word": "bull",
+      "Word": "Bulle",
       "ImageUrl": "https://www.randomlists.com/img/animals/bull.jpg"
     },
     {
-      "Word": "bunny",
+      "Word": "Kaninchen",
       "ImageUrl": "https://www.randomlists.com/img/animals/bunny.jpg"
     },
     {
